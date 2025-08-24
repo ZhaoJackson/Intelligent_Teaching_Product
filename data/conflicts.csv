@@ -1,0 +1,151 @@
+conflict_id,group_id,conflict_type,detection_method,timestamp,severity_level,intervention_time_hours,resolution_strategy,resolution_success,group_satisfaction_before,group_satisfaction_after,human_ta_involved,follow_up_needed
+CON0001,GRP008,Quality Standards Disagreement,Student Report,2025-07-29 07:04:15.563665,High,1.9246626836783773,Communication Training,True,5.666937475399651,8.185499908428985,False,False
+CON0002,GRP001,Communication Style Clash,Communication Analysis,2025-08-10 12:04:15.563692,High,3.0224986289411193,Communication Training,False,4.093152497322536,7.385824024897364,False,True
+CON0003,GRP006,Unequal Contribution,Student Report,2025-08-11 10:04:15.563702,High,0.6069270194989428,Skill-Based Task Assignment,True,6.82887761726008,7.4597521463100955,True,False
+CON0004,GRP013,Quality Standards Disagreement,Student Report,2025-07-31 09:04:15.563710,High,0.5,Mediated Compromise,True,6.119231566664373,7.171577360787727,True,False
+CON0005,GRP008,Technical Disagreement,Communication Analysis,2025-08-10 03:04:15.563717,Medium,4.320804735821285,Skill-Based Task Assignment,True,6.297508489931367,9.09635130974573,False,False
+CON0006,GRP014,Leadership Dispute,Communication Analysis,2025-08-21 05:04:15.563725,Low,0.9092673116805133,Communication Training,True,7.067096751145636,7.287623554191885,False,True
+CON0007,GRP007,Scheduling Conflict,Participation Metrics,2025-08-01 16:04:15.563732,High,1.8343556780201355,Structured Discussion,False,3.5499750368880063,3.247054765287058,True,False
+CON0008,GRP005,Communication Style Clash,Student Report,2025-08-15 08:04:15.563743,Low,0.5,Mediated Compromise,True,5.074711485721457,7.569474383244389,True,True
+CON0009,GRP014,Unequal Contribution,Participation Metrics,2025-07-28 01:04:15.563752,High,1.7206321843939838,Skill-Based Task Assignment,False,4.977069424852817,6.125332387591014,False,True
+CON0010,GRP020,Unequal Contribution,Communication Analysis,2025-08-13 19:04:15.563760,High,3.80261273532302,Communication Training,False,4.088564999415755,3.7999024619800257,False,False
+CON0011,GRP016,Quality Standards Disagreement,Participation Metrics,2025-08-01 09:04:15.563769,Low,0.5,Goal Realignment,True,4.683481142599438,7.958114251200468,False,False
+CON0012,GRP016,Communication Style Clash,Participation Metrics,2025-08-10 09:04:15.563776,Low,0.5,Structured Discussion,False,6.8384360530371,8.19481300881217,False,True
+CON0013,GRP001,Scheduling Conflict,Student Report,2025-08-09 14:04:15.563783,Medium,2.5907350949531036,Skill-Based Task Assignment,True,4.976675805968676,9.17359375151954,False,True
+CON0014,GRP019,Unequal Contribution,Student Report,2025-08-12 18:04:15.563790,Low,0.5,Role Redistribution,True,5.146506019567247,8.851447190005992,False,True
+CON0015,GRP006,Communication Style Clash,Communication Analysis,2025-08-16 01:04:15.563797,Low,1.5697159220700163,Mediated Compromise,True,6.061121923159803,8.581660992607109,False,False
+CON0016,GRP005,Unequal Contribution,Communication Analysis,2025-08-15 18:04:15.563804,Medium,0.8783391427490996,Goal Realignment,True,8.024298624460553,5.88958985145762,False,False
+CON0017,GRP014,Communication Style Clash,Student Report,2025-08-21 19:04:15.563812,Low,1.1606342778271515,Skill-Based Task Assignment,True,5.878008052873672,7.033415238213222,False,True
+CON0018,GRP006,Quality Standards Disagreement,Participation Metrics,2025-08-19 20:04:15.563819,Low,0.7768085203179613,Role Redistribution,True,4.642956806002164,7.381377603370559,True,True
+CON0019,GRP008,Quality Standards Disagreement,Communication Analysis,2025-08-13 03:04:15.563825,High,2.7566813432214903,Communication Training,True,6.7488425805408285,7.453826156539319,False,False
+CON0020,GRP019,Leadership Dispute,Participation Metrics,2025-08-05 04:04:15.563833,Low,0.5,Communication Training,True,3.3404347000444767,8.188607119592941,False,False
+CON0021,GRP014,Communication Style Clash,Student Report,2025-08-05 12:04:15.563840,Medium,1.8703448357239396,Mediated Compromise,False,3.7052073750721606,5.562175224794504,True,True
+CON0022,GRP001,Communication Style Clash,Participation Metrics,2025-08-11 21:04:15.563847,Medium,3.980023298991054,Communication Training,True,2.9790013319549637,7.251224512131955,False,True
+CON0023,GRP005,Unequal Contribution,Communication Analysis,2025-08-01 17:04:15.563854,Low,7.818078778925072,Communication Training,True,5.43351308153258,7.038165148030098,False,False
+CON0024,GRP005,Unequal Contribution,Student Report,2025-08-16 19:04:15.563862,High,1.1242116611250585,Role Redistribution,True,8.72627803935194,6.785723873475775,False,True
+CON0025,GRP020,Leadership Dispute,Communication Analysis,2025-08-14 04:04:15.563869,High,5.31906468570922,Communication Training,True,5.426301442767344,6.415435568116911,True,False
+CON0026,GRP009,Technical Disagreement,Student Report,2025-08-18 16:04:15.563876,Low,1.6537277121921745,Structured Discussion,True,5.8880842678031,9.536405541102072,False,False
+CON0027,GRP008,Quality Standards Disagreement,Student Report,2025-08-20 16:04:15.563883,High,1.7526818326392364,Role Redistribution,True,7.10787745513355,8.275293033562301,False,True
+CON0028,GRP018,Unequal Contribution,Student Report,2025-08-10 18:04:15.563890,Medium,0.5,Role Redistribution,True,3.38188105733565,9.063972335570245,False,False
+CON0029,GRP002,Unequal Contribution,Communication Analysis,2025-08-23 11:04:15.563897,High,2.129899549986247,Structured Discussion,True,8.395156399481438,8.28302333189308,True,True
+CON0030,GRP019,Unequal Contribution,Communication Analysis,2025-08-16 09:04:15.563953,Medium,0.5,Structured Discussion,True,6.174408870250475,9.431726271993977,False,False
+CON0031,GRP002,Quality Standards Disagreement,Student Report,2025-07-29 16:04:15.563970,Low,0.7506040565365267,Goal Realignment,True,5.132936864860622,9.71040328437941,True,True
+CON0032,GRP004,Leadership Dispute,Student Report,2025-08-12 03:04:15.563979,Medium,4.937910786831377,Mediated Compromise,True,3.979077067224904,7.024910192085244,True,False
+CON0033,GRP019,Leadership Dispute,Participation Metrics,2025-08-12 05:04:15.563986,Medium,0.87768170890948,Communication Training,True,6.739021188560947,6.7008025565326195,False,True
+CON0034,GRP010,Leadership Dispute,Student Report,2025-08-22 16:04:15.563994,Medium,0.5,Skill-Based Task Assignment,True,5.12188725408553,8.083038078899484,False,False
+CON0035,GRP002,Leadership Dispute,Communication Analysis,2025-08-24 09:04:15.564002,High,2.0082363595151325,Mediated Compromise,True,6.927272718899502,8.343215011392076,False,True
+CON0036,GRP003,Technical Disagreement,Student Report,2025-08-02 11:04:15.564009,Medium,4.04960025808571,Communication Training,True,4.554328991985356,8.846213483848908,True,True
+CON0037,GRP014,Communication Style Clash,Participation Metrics,2025-08-02 16:04:15.564017,Low,3.7264502547687086,Mediated Compromise,True,5.273946137825738,8.904016566650702,False,True
+CON0038,GRP006,Leadership Dispute,Participation Metrics,2025-08-22 17:04:15.564024,High,0.5,Goal Realignment,True,6.563797523544008,7.499054871347242,True,False
+CON0039,GRP008,Scheduling Conflict,Student Report,2025-07-29 07:04:15.564031,High,0.5,Skill-Based Task Assignment,True,5.000977330420157,6.087150039509924,False,False
+CON0040,GRP020,Quality Standards Disagreement,Student Report,2025-08-16 14:04:15.564039,Low,1.3748503787773934,Structured Discussion,True,5.9928176406834455,7.83764209931965,True,False
+CON0041,GRP013,Technical Disagreement,Student Report,2025-08-19 04:04:15.564046,High,0.5,Communication Training,False,5.295306932735226,7.897996210887398,False,True
+CON0042,GRP006,Leadership Dispute,Participation Metrics,2025-08-03 05:04:15.564053,Low,0.5,Communication Training,True,7.230475911820882,7.471672132158997,True,False
+CON0043,GRP003,Scheduling Conflict,Participation Metrics,2025-08-14 03:04:15.564060,Low,1.3445145292752076,Goal Realignment,True,5.456866071527494,7.014945461113985,True,False
+CON0044,GRP010,Quality Standards Disagreement,Communication Analysis,2025-08-02 05:04:15.564067,High,0.8361101806074872,Goal Realignment,True,5.9236273370871295,8.368477992922388,False,False
+CON0045,GRP006,Unequal Contribution,Communication Analysis,2025-08-06 14:04:15.564074,High,0.5,Role Redistribution,True,4.29531986766082,6.516257157505793,False,False
+CON0046,GRP007,Unequal Contribution,Participation Metrics,2025-08-13 18:04:15.564081,Low,0.8928557744935639,Skill-Based Task Assignment,True,6.187445837805922,10.711302736623663,False,False
+CON0047,GRP013,Communication Style Clash,Participation Metrics,2025-08-08 13:04:15.564088,Medium,2.209239131429965,Structured Discussion,True,4.408342186081861,5.381634120435897,True,False
+CON0048,GRP012,Technical Disagreement,Student Report,2025-08-16 12:04:15.564095,Medium,4.431297581334785,Role Redistribution,True,6.302246915297802,7.7194603349578665,False,False
+CON0049,GRP003,Scheduling Conflict,Participation Metrics,2025-08-11 08:04:15.564102,Medium,2.988336852574023,Mediated Compromise,True,3.951089170391728,7.97883735161282,False,False
+CON0050,GRP017,Leadership Dispute,Communication Analysis,2025-08-14 20:04:15.564109,High,3.4263952285270096,Structured Discussion,False,4.721925836811934,4.874033527128862,False,False
+CON0051,GRP006,Technical Disagreement,Participation Metrics,2025-08-18 18:04:15.564116,Medium,0.5323370757550769,Communication Training,True,3.6367377893523334,7.921976499538167,False,True
+CON0052,GRP002,Technical Disagreement,Student Report,2025-07-28 05:04:15.564123,Low,0.7047141511607684,Mediated Compromise,True,5.6653277878822195,7.9444477547466725,True,False
+CON0053,GRP012,Communication Style Clash,Student Report,2025-08-13 12:04:15.564129,High,0.6698470660795857,Mediated Compromise,True,5.522476804499128,6.3340225676475015,False,True
+CON0054,GRP005,Unequal Contribution,Communication Analysis,2025-08-20 11:04:15.564137,High,7.086028748756742,Communication Training,True,4.461585439902933,8.955136289653959,False,False
+CON0055,GRP004,Leadership Dispute,Communication Analysis,2025-07-29 14:04:15.564143,Low,0.850824791045783,Role Redistribution,False,5.263058555495847,8.051419651653195,False,False
+CON0056,GRP007,Communication Style Clash,Participation Metrics,2025-07-28 00:04:15.564150,Medium,2.790734200247433,Role Redistribution,True,4.265760438170149,7.445758496276764,True,False
+CON0057,GRP003,Unequal Contribution,Student Report,2025-08-02 22:04:15.564158,Medium,1.2529219546151376,Mediated Compromise,True,6.121820856476302,8.225026911857945,False,True
+CON0058,GRP014,Leadership Dispute,Student Report,2025-08-02 02:04:15.564165,Low,0.9999913556177911,Structured Discussion,False,5.896097001557761,4.621997679607647,False,True
+CON0059,GRP001,Leadership Dispute,Communication Analysis,2025-08-10 05:04:15.564172,Medium,0.6740833393414897,Structured Discussion,True,6.144214745671715,4.202151409811504,False,False
+CON0060,GRP001,Communication Style Clash,Student Report,2025-08-08 09:04:15.564179,Medium,1.470315207254652,Skill-Based Task Assignment,True,4.5929244232265205,5.419046319890869,False,False
+CON0061,GRP020,Unequal Contribution,Student Report,2025-08-06 18:04:15.564186,Low,0.5,Communication Training,True,5.990995119221008,7.1747648678017235,False,True
+CON0062,GRP012,Communication Style Clash,Communication Analysis,2025-08-21 05:04:15.564193,Medium,1.409795345798553,Communication Training,True,7.297798367017103,8.64837055736472,True,True
+CON0063,GRP019,Technical Disagreement,Communication Analysis,2025-08-01 11:04:15.564200,Medium,2.458942495813312,Role Redistribution,True,5.574588230580396,7.7809738393349,True,False
+CON0064,GRP001,Leadership Dispute,Communication Analysis,2025-08-07 02:04:15.564206,Low,6.985989682600326,Role Redistribution,True,5.6229763640416355,5.551133396722536,False,True
+CON0065,GRP020,Leadership Dispute,Communication Analysis,2025-08-21 08:04:15.564213,Low,0.8051528628921666,Skill-Based Task Assignment,True,8.494498351783784,6.379926990684517,True,True
+CON0066,GRP009,Unequal Contribution,Student Report,2025-08-11 22:04:15.564221,Low,0.5,Communication Training,True,6.235142196404025,9.094619479810756,False,False
+CON0067,GRP012,Quality Standards Disagreement,Communication Analysis,2025-08-10 02:04:15.564228,Low,0.6927416432552951,Skill-Based Task Assignment,True,1.9610965970203482,6.685492128373608,False,False
+CON0068,GRP002,Leadership Dispute,Student Report,2025-08-20 09:04:15.564235,Low,0.603904182060762,Goal Realignment,False,4.992729260001591,5.943449321288882,True,False
+CON0069,GRP002,Communication Style Clash,Communication Analysis,2025-08-02 07:04:15.564241,Low,2.781124375760223,Mediated Compromise,True,4.292688401486225,7.187849940763466,False,False
+CON0070,GRP001,Scheduling Conflict,Communication Analysis,2025-08-05 01:04:15.564248,Low,0.5,Mediated Compromise,True,3.437257005808174,8.345607289131097,False,True
+CON0071,GRP007,Technical Disagreement,Participation Metrics,2025-08-09 07:04:15.564255,Low,0.5,Skill-Based Task Assignment,False,6.027097514167363,6.5829486508124155,False,True
+CON0072,GRP016,Quality Standards Disagreement,Participation Metrics,2025-08-06 09:04:15.564261,High,0.9952497962720532,Goal Realignment,True,5.0063459372894155,5.187864358833782,False,False
+CON0073,GRP009,Technical Disagreement,Student Report,2025-08-22 18:04:15.564268,Low,1.8133313441102732,Role Redistribution,False,5.7911678955562875,4.928511090516533,False,False
+CON0074,GRP015,Communication Style Clash,Participation Metrics,2025-08-11 18:04:15.564275,Low,1.364146253052304,Skill-Based Task Assignment,True,7.284977564908607,7.272176084279513,False,False
+CON0075,GRP017,Communication Style Clash,Participation Metrics,2025-08-22 12:04:15.564282,Low,0.5,Role Redistribution,True,7.88415806661606,8.227440706478552,False,False
+CON0076,GRP004,Quality Standards Disagreement,Participation Metrics,2025-08-05 05:04:15.564289,High,1.480732976028976,Goal Realignment,True,5.222615558174236,8.590584293627357,True,False
+CON0077,GRP019,Leadership Dispute,Student Report,2025-08-21 17:04:15.564295,Medium,11.341145066186298,Mediated Compromise,True,4.856679755263087,10.303206222626565,False,False
+CON0078,GRP015,Technical Disagreement,Student Report,2025-08-17 10:04:15.564303,Medium,1.5486798045576005,Communication Training,True,7.206139380700639,7.01187556997794,False,False
+CON0079,GRP020,Leadership Dispute,Participation Metrics,2025-07-27 11:04:15.564310,Medium,2.212506845570942,Communication Training,True,7.714284261253023,7.368916139582756,False,False
+CON0080,GRP015,Unequal Contribution,Student Report,2025-08-11 21:04:15.564318,Low,3.6158147613010403,Communication Training,True,4.329782102176661,7.905557132969131,False,False
+CON0081,GRP019,Communication Style Clash,Communication Analysis,2025-08-10 09:04:15.564324,High,0.5,Structured Discussion,True,6.565691653677762,8.044758721093494,True,False
+CON0082,GRP019,Leadership Dispute,Communication Analysis,2025-08-17 00:04:15.564332,Low,1.0689662840003027,Structured Discussion,False,5.846486828917582,3.3077260754907716,True,False
+CON0083,GRP010,Communication Style Clash,Participation Metrics,2025-08-07 06:04:15.564339,High,1.252245603701432,Communication Training,True,8.109537164092576,6.789628165125478,False,True
+CON0084,GRP001,Leadership Dispute,Participation Metrics,2025-08-17 21:04:15.564346,Medium,0.5,Goal Realignment,True,4.533748867954429,7.637045231691582,True,False
+CON0085,GRP001,Quality Standards Disagreement,Participation Metrics,2025-08-17 01:04:15.564353,High,1.8724977764441546,Role Redistribution,False,5.127256207676761,4.207477292548469,False,False
+CON0086,GRP017,Leadership Dispute,Communication Analysis,2025-08-10 14:04:15.564360,High,1.8077847083755287,Goal Realignment,True,5.426583635375907,7.145128751236567,False,True
+CON0087,GRP017,Communication Style Clash,Student Report,2025-07-31 13:04:15.564367,Low,0.7019061579104968,Mediated Compromise,True,4.925363823083074,8.113850748510977,False,False
+CON0088,GRP004,Communication Style Clash,Student Report,2025-07-31 08:04:15.564374,High,2.1640046064485152,Skill-Based Task Assignment,False,2.1912906675788952,4.300360359375375,False,False
+CON0089,GRP005,Scheduling Conflict,Student Report,2025-08-09 04:04:15.564381,High,0.7765393126390405,Goal Realignment,True,6.424905355536569,6.58800511746508,True,False
+CON0090,GRP018,Scheduling Conflict,Student Report,2025-08-08 08:04:15.564388,Medium,15.951534866083836,Skill-Based Task Assignment,True,3.0850803971656404,6.8363491187229055,False,False
+CON0091,GRP018,Scheduling Conflict,Participation Metrics,2025-08-20 07:04:15.564394,High,0.987754077245888,Goal Realignment,True,7.68176992129755,4.623465470333782,False,False
+CON0092,GRP011,Leadership Dispute,Participation Metrics,2025-08-19 08:04:15.564401,Medium,3.5243187658841637,Role Redistribution,True,4.654584795636984,5.580710392945913,False,True
+CON0093,GRP019,Technical Disagreement,Student Report,2025-08-12 21:04:15.564409,High,2.982068083041865,Structured Discussion,True,4.724974768054885,7.502813275395144,False,False
+CON0094,GRP008,Unequal Contribution,Communication Analysis,2025-08-02 13:04:15.564416,Medium,2.2040877711683553,Communication Training,True,6.854638350338314,7.856064144317966,False,False
+CON0095,GRP002,Unequal Contribution,Participation Metrics,2025-08-03 00:04:15.564423,Low,0.5,Structured Discussion,True,4.150646082132368,7.900427783972264,True,True
+CON0096,GRP001,Unequal Contribution,Communication Analysis,2025-08-08 11:04:15.564430,High,0.7229023278650782,Structured Discussion,True,4.676617410338482,8.355923482977024,False,True
+CON0097,GRP020,Unequal Contribution,Student Report,2025-08-10 18:04:15.564437,Low,0.5,Skill-Based Task Assignment,True,5.625517674548279,7.938407748472604,False,True
+CON0098,GRP007,Leadership Dispute,Participation Metrics,2025-07-28 02:04:15.564445,Medium,0.5,Goal Realignment,True,7.875250019944435,9.193453682893937,True,False
+CON0099,GRP009,Technical Disagreement,Communication Analysis,2025-08-03 08:04:15.564452,Medium,1.4498614050036631,Skill-Based Task Assignment,True,7.61211570318032,7.847072676434197,False,True
+CON0100,GRP015,Communication Style Clash,Student Report,2025-08-07 07:04:15.564459,Medium,9.316111695083869,Goal Realignment,True,6.390431121592065,6.568867992360686,True,True
+CON0101,GRP003,Quality Standards Disagreement,Participation Metrics,2025-07-28 19:04:15.564466,Medium,1.2715356418774086,Skill-Based Task Assignment,True,5.236971067315815,8.248749435671787,False,False
+CON0102,GRP020,Unequal Contribution,Participation Metrics,2025-08-23 12:04:15.564473,Medium,2.36267632438596,Communication Training,True,3.3654783078478276,6.692256978916165,False,True
+CON0103,GRP007,Communication Style Clash,Participation Metrics,2025-08-14 14:04:15.564480,Low,1.2646363068800657,Role Redistribution,False,5.091356395536575,6.233594080351904,False,True
+CON0104,GRP006,Communication Style Clash,Participation Metrics,2025-08-07 09:04:15.564487,Low,3.1248054781981933,Skill-Based Task Assignment,True,4.369626983595554,10.780972896894403,False,True
+CON0105,GRP006,Quality Standards Disagreement,Communication Analysis,2025-08-21 03:04:15.564494,High,5.1143491970632216,Role Redistribution,True,6.988716103761357,6.597721499191037,True,True
+CON0106,GRP008,Leadership Dispute,Student Report,2025-08-10 22:04:15.564500,Low,1.146648272808951,Skill-Based Task Assignment,True,5.739584387715367,9.366931893945024,False,False
+CON0107,GRP004,Communication Style Clash,Communication Analysis,2025-08-05 09:04:15.564507,Low,3.976629269554928,Goal Realignment,True,6.713487215397472,8.283958491662144,False,True
+CON0108,GRP006,Leadership Dispute,Participation Metrics,2025-08-22 11:04:15.564514,Low,2.6560169460116354,Skill-Based Task Assignment,True,6.550388534830848,6.044278498500361,True,True
+CON0109,GRP014,Technical Disagreement,Participation Metrics,2025-08-22 05:04:15.564521,Low,3.9351655467251567,Skill-Based Task Assignment,True,5.565430032234737,9.99626209192865,True,True
+CON0110,GRP016,Leadership Dispute,Communication Analysis,2025-08-18 10:04:15.564530,Medium,2.11612967917213,Goal Realignment,True,4.438210627193973,6.458526793535751,False,False
+CON0111,GRP006,Unequal Contribution,Communication Analysis,2025-08-17 14:04:15.564537,High,0.8384880617989411,Structured Discussion,True,4.023832698915642,8.265033549890575,False,False
+CON0112,GRP006,Unequal Contribution,Student Report,2025-08-16 05:04:15.564545,Medium,0.5848229101287822,Communication Training,True,7.198741539926041,7.143337871680832,False,False
+CON0113,GRP011,Quality Standards Disagreement,Participation Metrics,2025-07-29 14:04:15.564552,Medium,2.628247969132062,Role Redistribution,True,7.884686155462601,7.918797669149756,False,False
+CON0114,GRP018,Communication Style Clash,Communication Analysis,2025-08-02 12:04:15.564559,Low,1.1666684625451458,Communication Training,True,5.453872392613994,8.230265351867786,False,True
+CON0115,GRP008,Leadership Dispute,Participation Metrics,2025-08-23 12:04:15.564566,Medium,1.2349870500318243,Goal Realignment,True,4.58725072276569,8.034168059710792,False,False
+CON0116,GRP004,Scheduling Conflict,Participation Metrics,2025-08-21 21:04:15.564573,Medium,0.6902042389115378,Skill-Based Task Assignment,True,4.632516328013359,5.629989535170919,True,False
+CON0117,GRP005,Unequal Contribution,Participation Metrics,2025-08-24 09:04:15.564580,Medium,2.5202861745966167,Communication Training,True,4.990728957500394,9.08155160944091,True,False
+CON0118,GRP008,Quality Standards Disagreement,Participation Metrics,2025-08-10 12:04:15.564587,High,0.5,Role Redistribution,True,6.327021191725196,6.73675273393691,True,True
+CON0119,GRP012,Unequal Contribution,Participation Metrics,2025-08-01 11:04:15.564594,Medium,2.7467553438912873,Structured Discussion,False,5.166423015254785,6.798788149172233,False,False
+CON0120,GRP003,Leadership Dispute,Student Report,2025-08-17 01:04:15.564601,Low,0.8520908357769322,Communication Training,True,6.169905096255647,7.904033485782641,True,False
+CON0121,GRP020,Unequal Contribution,Student Report,2025-07-30 07:04:15.564608,High,1.9369523432732958,Goal Realignment,False,6.314493116408727,7.085651522618021,True,False
+CON0122,GRP010,Leadership Dispute,Communication Analysis,2025-08-17 17:04:15.564614,Low,3.886521748522269,Structured Discussion,True,8.074613218597868,8.752722145092612,False,False
+CON0123,GRP008,Quality Standards Disagreement,Student Report,2025-08-06 00:04:15.564621,High,1.7461350319130524,Communication Training,False,5.520394861846475,7.890892492840262,False,True
+CON0124,GRP005,Technical Disagreement,Student Report,2025-08-10 02:04:15.564628,High,8.464697679272499,Communication Training,False,6.788392096176103,5.569605444615888,False,False
+CON0125,GRP010,Technical Disagreement,Participation Metrics,2025-07-28 18:04:15.564636,High,0.5464945622566,Communication Training,True,4.057816664854224,9.206162604501214,False,False
+CON0126,GRP015,Unequal Contribution,Participation Metrics,2025-08-16 20:04:15.564643,Low,6.7811505268240495,Communication Training,False,5.947204339960189,8.425874444541645,False,True
+CON0127,GRP006,Unequal Contribution,Student Report,2025-08-05 05:04:15.564650,Medium,4.97907291060234,Skill-Based Task Assignment,True,4.852872908192512,6.475566275814855,False,False
+CON0128,GRP015,Scheduling Conflict,Student Report,2025-08-01 19:04:15.564656,Medium,1.8722428897792058,Skill-Based Task Assignment,True,6.379717778441196,8.788903896653116,False,False
+CON0129,GRP014,Leadership Dispute,Participation Metrics,2025-08-17 22:04:15.564663,Low,0.5,Mediated Compromise,True,5.654730742564411,7.470872231670837,False,True
+CON0130,GRP002,Quality Standards Disagreement,Student Report,2025-08-10 22:04:15.564671,High,1.0913469672036988,Communication Training,False,4.714176638678413,8.900081303776647,True,False
+CON0131,GRP008,Technical Disagreement,Communication Analysis,2025-08-13 00:04:15.564678,Low,0.6905545995939001,Goal Realignment,True,7.429226987715016,6.336317272408382,False,True
+CON0132,GRP013,Quality Standards Disagreement,Student Report,2025-08-10 08:04:15.564685,High,2.424662725390436,Skill-Based Task Assignment,False,2.1947043708817606,3.7883451232780163,False,True
+CON0133,GRP009,Leadership Dispute,Communication Analysis,2025-08-09 21:04:15.564692,Medium,1.0697047755289186,Mediated Compromise,True,7.5214611603929065,6.3374685201729815,True,False
+CON0134,GRP019,Scheduling Conflict,Communication Analysis,2025-08-18 12:04:15.564699,Medium,1.2254891845607683,Communication Training,True,4.1501358823489,9.134578875367918,True,False
+CON0135,GRP005,Quality Standards Disagreement,Student Report,2025-07-30 22:04:15.564705,Medium,3.018042026979224,Skill-Based Task Assignment,True,6.485357905757651,9.38690541852461,False,True
+CON0136,GRP018,Leadership Dispute,Communication Analysis,2025-08-09 23:04:15.564712,Medium,0.5,Role Redistribution,False,4.261028871204668,8.408726371126887,True,False
+CON0137,GRP006,Leadership Dispute,Participation Metrics,2025-08-03 21:04:15.564719,Low,1.98874629449415,Mediated Compromise,False,5.030244027564905,9.721149174468172,False,False
+CON0138,GRP019,Communication Style Clash,Student Report,2025-08-15 00:04:15.564726,Medium,4.749150686027441,Communication Training,True,4.6140570358499895,9.436255135967535,False,False
+CON0139,GRP017,Unequal Contribution,Student Report,2025-08-07 19:04:15.564733,Medium,7.899732758518277,Mediated Compromise,True,5.652895952504532,8.534122208338292,True,False
+CON0140,GRP013,Leadership Dispute,Participation Metrics,2025-08-23 19:04:15.564740,High,0.5,Mediated Compromise,True,7.772632292998786,9.046385144783681,False,False
+CON0141,GRP009,Communication Style Clash,Communication Analysis,2025-08-16 05:04:15.564747,Medium,3.191134825304502,Goal Realignment,True,2.21172165047618,8.448288652901049,False,False
+CON0142,GRP019,Unequal Contribution,Communication Analysis,2025-08-03 23:04:15.564754,High,0.6343419281472863,Skill-Based Task Assignment,False,5.090975870193573,4.878636878031668,True,True
+CON0143,GRP011,Leadership Dispute,Communication Analysis,2025-08-13 00:04:15.564761,Low,1.3310192593289378,Structured Discussion,True,7.519162840647114,7.046913983492329,False,True
+CON0144,GRP011,Technical Disagreement,Participation Metrics,2025-08-19 21:04:15.564767,Medium,0.5,Mediated Compromise,True,6.597369434504929,10.997537390401721,True,True
+CON0145,GRP020,Communication Style Clash,Participation Metrics,2025-08-04 04:04:15.564774,High,3.190752211629093,Communication Training,True,8.011636670399866,9.832500749057706,True,False
+CON0146,GRP011,Unequal Contribution,Communication Analysis,2025-07-29 00:04:15.564781,Medium,8.509216884069492,Role Redistribution,True,6.485031683977919,7.9404492426975155,False,False
+CON0147,GRP003,Unequal Contribution,Participation Metrics,2025-08-16 22:04:15.564788,Medium,1.4754081625193272,Skill-Based Task Assignment,True,5.565740389925147,7.350406124991298,False,False
+CON0148,GRP019,Leadership Dispute,Participation Metrics,2025-07-31 13:04:15.564795,Low,1.7595431227506566,Communication Training,True,3.557664421484362,8.791900758164697,False,True
+CON0149,GRP009,Technical Disagreement,Communication Analysis,2025-08-14 11:04:15.564802,High,2.5043858747821344,Communication Training,True,7.262196955082169,9.772171525172308,False,False
+CON0150,GRP005,Technical Disagreement,Student Report,2025-08-06 05:04:15.564809,Medium,0.5,Structured Discussion,True,4.4327182474362905,7.431872778403643,False,False

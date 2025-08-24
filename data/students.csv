@@ -1,0 +1,81 @@
+student_id,student_name,major,personality_type,preferred_role,technical_skills,collaboration_score,engagement_score,academic_performance,communication_style,work_preference,availability,group_id,previous_ml_experience,motivation_type
+STU001,William Wilson,Engineering,Analytical,Data Scientist,8.7,5.8,6.4,8.1,Direct,Mixed approach,"Afternoon, Morning, Evening",GRP001,Advanced,Grade-focused
+STU002,Aubrey Cox,Computer Science,Analytical,Data Scientist,7.6,5.6,7.2,7.8,Diplomatic,Mixed approach,Morning,GRP001,Advanced,Learning-focused
+STU003,Layla Baker,Mathematics,Leadership,ML Engineer,6.8,8.8,8.4,7.5,Diplomatic,Individual first,Morning,GRP001,Intermediate,Grade-focused
+STU004,Grace Cox,Mathematics,Analytical,ML Engineer,8.4,3.1,1.4,3.9,Direct,Mixed approach,Afternoon,GRP001,Advanced,Grade-focused
+STU005,Emma Garcia,Engineering,Leadership,Project Manager,6.0,8.5,7.6,6.2,Diplomatic,Collaborative,"Afternoon, Evening, Morning",GRP002,None,Learning-focused
+STU006,Charlotte Mitchell,Mathematics,Analytical,ML Engineer,10.0,5.7,5.7,6.7,Diplomatic,Mixed approach,"Afternoon, Evening",GRP002,Intermediate,Grade-focused
+STU007,Camila Wright,Engineering,Creative,Domain Expert,6.2,7.2,6.0,6.3,Diplomatic,Mixed approach,Afternoon,GRP002,Intermediate,Grade-focused
+STU008,Emma Ramirez,Psychology,Creative,Domain Expert,6.1,6.6,6.0,6.9,Supportive,Individual first,"Afternoon, Evening",GRP002,Advanced,Research-focused
+STU009,Isaac Morgan,Mathematics,Leadership,Project Manager,7.5,6.4,7.2,6.7,Analytical,Mixed approach,"Morning, Evening",GRP003,Advanced,Career-focused
+STU010,Isabella Martin,Engineering,Creative,Domain Expert,7.3,4.1,2.7,4.7,Diplomatic,Mixed approach,"Afternoon, Morning, Evening",GRP003,Advanced,Grade-focused
+STU011,Isabella Morgan,Mathematics,Leadership,ML Engineer,8.6,8.3,8.1,8.2,Supportive,Individual first,"Afternoon, Evening, Morning",GRP003,Intermediate,Research-focused
+STU012,Jacob Cook,Statistics,Creative,Data Scientist,4.8,5.9,5.5,5.7,Direct,Mixed approach,Evening,GRP003,Intermediate,Learning-focused
+STU013,Gabriel Smith,Psychology,Creative,Data Scientist,7.5,4.4,4.7,5.6,Supportive,Collaborative,Evening,GRP004,None,Grade-focused
+STU014,Emily Reed,Computer Science,Collaborative,Domain Expert,5.0,9.1,10.0,8.5,Direct,Mixed approach,Morning,GRP004,Advanced,Grade-focused
+STU015,Gabriel Cox,Business,Creative,Domain Expert,5.7,6.5,6.9,6.9,Diplomatic,Mixed approach,"Afternoon, Morning, Evening",GRP004,Beginner,Career-focused
+STU016,Mason Young,Statistics,Leadership,ML Engineer,6.8,7.7,6.6,6.1,Direct,Collaborative,"Evening, Afternoon",GRP004,None,Learning-focused
+STU017,Brooklyn Davis,Statistics,Creative,Domain Expert,8.2,9.0,9.0,9.2,Direct,Individual first,Evening,GRP005,Intermediate,Grade-focused
+STU018,Grayson Kelly,Business,Creative,Data Scientist,7.5,6.0,6.4,7.6,Diplomatic,Collaborative,"Afternoon, Morning, Evening",GRP005,Advanced,Learning-focused
+STU019,Riley Reyes,Engineering,Analytical,Data Scientist,7.9,8.3,5.7,7.0,Direct,Mixed approach,"Afternoon, Evening, Morning",GRP005,None,Grade-focused
+STU020,Harper Harris,Psychology,Leadership,ML Engineer,7.6,7.6,7.6,6.6,Analytical,Individual first,Morning,GRP005,Advanced,Learning-focused
+STU021,Lillian Peterson,Computer Science,Collaborative,Domain Expert,5.7,8.9,10.0,8.0,Direct,Mixed approach,Morning,GRP006,None,Grade-focused
+STU022,Alexander Phillips,Computer Science,Creative,Domain Expert,5.8,6.2,7.2,6.8,Diplomatic,Collaborative,"Afternoon, Evening",GRP006,None,Research-focused
+STU023,James Harris,Mathematics,Collaborative,Domain Expert,5.2,9.0,9.1,8.0,Diplomatic,Individual first,"Afternoon, Evening",GRP006,None,Career-focused
+STU024,Jayden Hernandez,Statistics,Analytical,Data Scientist,6.9,5.5,5.1,5.1,Direct,Mixed approach,"Afternoon, Morning, Evening",GRP006,None,Learning-focused
+STU025,Mateo Howard,Psychology,Leadership,Project Manager,7.9,8.4,8.4,8.1,Supportive,Collaborative,"Morning, Evening, Afternoon",GRP007,Beginner,Career-focused
+STU026,Nora Green,Computer Science,Creative,Data Scientist,4.9,6.4,6.0,5.2,Direct,Collaborative,"Morning, Afternoon",GRP007,None,Grade-focused
+STU027,Emma Young,Mathematics,Creative,Data Scientist,6.8,7.6,9.5,8.5,Supportive,Individual first,Afternoon,GRP007,Advanced,Career-focused
+STU028,Isabella Wilson,Engineering,Analytical,ML Engineer,8.4,5.9,4.0,5.7,Diplomatic,Collaborative,"Morning, Evening, Afternoon",GRP007,Intermediate,Learning-focused
+STU029,Elizabeth Miller,Computer Science,Collaborative,Project Manager,6.1,10.0,9.8,8.5,Analytical,Collaborative,"Evening, Afternoon, Morning",GRP008,None,Grade-focused
+STU030,Addison Diaz,Psychology,Collaborative,Project Manager,5.9,7.3,8.5,7.8,Direct,Individual first,"Afternoon, Morning, Evening",GRP008,None,Learning-focused
+STU031,Ava Garcia,Mathematics,Analytical,ML Engineer,9.2,4.6,6.0,6.6,Supportive,Individual first,"Evening, Morning, Afternoon",GRP008,Intermediate,Learning-focused
+STU032,Lincoln Martin,Statistics,Creative,Domain Expert,7.9,10.0,9.0,8.3,Diplomatic,Individual first,"Evening, Afternoon",GRP008,Advanced,Grade-focused
+STU033,Sofia Lee,Engineering,Creative,Data Scientist,7.1,6.2,4.7,5.7,Direct,Collaborative,"Evening, Morning",GRP009,None,Research-focused
+STU034,Michael Lewis,Computer Science,Creative,Domain Expert,5.4,7.7,6.8,7.0,Diplomatic,Collaborative,"Afternoon, Evening",GRP009,Intermediate,Career-focused
+STU035,Lily Nelson,Computer Science,Analytical,ML Engineer,6.8,5.5,6.3,5.9,Direct,Collaborative,"Evening, Afternoon",GRP009,Beginner,Career-focused
+STU036,David Cox,Psychology,Analytical,Data Scientist,8.3,8.0,6.4,7.2,Direct,Collaborative,"Afternoon, Evening, Morning",GRP009,Beginner,Career-focused
+STU037,Lily Sanchez,Mathematics,Analytical,ML Engineer,8.4,7.2,5.9,6.3,Analytical,Individual first,Evening,GRP010,Intermediate,Career-focused
+STU038,Levi Nguyen,Psychology,Analytical,ML Engineer,8.8,6.4,6.7,7.7,Diplomatic,Individual first,"Afternoon, Evening, Morning",GRP010,Advanced,Research-focused
+STU039,Scarlett Torres,Statistics,Creative,Data Scientist,6.0,7.3,7.6,6.6,Analytical,Mixed approach,"Evening, Morning",GRP010,Intermediate,Research-focused
+STU040,Olivia Torres,Psychology,Leadership,ML Engineer,10.0,8.7,7.5,8.8,Supportive,Individual first,"Morning, Afternoon, Evening",GRP010,Beginner,Career-focused
+STU041,Riley Young,Business,Creative,Domain Expert,5.5,8.2,9.3,7.4,Direct,Collaborative,Morning,GRP011,Advanced,Learning-focused
+STU042,Alex Wilson,Business,Leadership,ML Engineer,8.9,8.6,9.4,10.0,Diplomatic,Individual first,"Morning, Evening",GRP011,Advanced,Grade-focused
+STU043,Gabriel Bailey,Psychology,Creative,Domain Expert,6.6,5.9,5.0,5.2,Supportive,Collaborative,"Morning, Afternoon",GRP011,Advanced,Research-focused
+STU044,Logan Gutierrez,Business,Creative,Data Scientist,6.9,7.5,7.8,7.8,Diplomatic,Collaborative,"Afternoon, Morning",GRP011,Advanced,Grade-focused
+STU045,Anthony Hernandez,Statistics,Collaborative,Project Manager,6.0,10.0,9.7,9.6,Diplomatic,Individual first,"Afternoon, Evening",GRP012,Advanced,Learning-focused
+STU046,Anthony Reyes,Business,Creative,Domain Expert,7.9,5.7,4.6,6.2,Direct,Individual first,"Afternoon, Evening",GRP012,Advanced,Research-focused
+STU047,Scarlett Roberts,Business,Analytical,ML Engineer,7.7,7.1,7.5,7.6,Diplomatic,Collaborative,"Morning, Afternoon",GRP012,Beginner,Career-focused
+STU048,Owen Phillips,Engineering,Leadership,ML Engineer,6.2,5.7,5.3,6.1,Diplomatic,Collaborative,Afternoon,GRP012,Beginner,Grade-focused
+STU049,Layla Moore,Business,Leadership,Project Manager,7.8,6.1,6.3,7.1,Diplomatic,Individual first,Evening,GRP013,Intermediate,Research-focused
+STU050,Camila Scott,Business,Collaborative,Project Manager,4.7,8.7,8.7,6.5,Supportive,Individual first,"Afternoon, Evening",GRP013,Advanced,Grade-focused
+STU051,Emma Garcia,Computer Science,Analytical,ML Engineer,8.5,6.8,7.9,8.7,Diplomatic,Individual first,Evening,GRP013,None,Learning-focused
+STU052,Eleanor Ramirez,Business,Creative,Domain Expert,4.9,5.6,6.1,5.9,Supportive,Collaborative,"Evening, Morning",GRP013,Beginner,Grade-focused
+STU053,Casey Flores,Psychology,Creative,Data Scientist,7.8,10.0,10.0,9.7,Analytical,Collaborative,Evening,GRP014,Beginner,Grade-focused
+STU054,Grace Morgan,Business,Creative,Domain Expert,8.4,8.0,7.7,8.3,Supportive,Individual first,"Afternoon, Morning, Evening",GRP014,Intermediate,Grade-focused
+STU055,Chloe Collins,Engineering,Leadership,ML Engineer,6.3,7.6,7.2,6.9,Diplomatic,Collaborative,Afternoon,GRP014,Beginner,Career-focused
+STU056,Jack Young,Computer Science,Leadership,ML Engineer,10.0,5.2,5.9,6.7,Supportive,Collaborative,"Evening, Afternoon",GRP014,Beginner,Research-focused
+STU057,Jack White,Business,Leadership,ML Engineer,6.8,9.6,9.7,8.0,Diplomatic,Collaborative,Afternoon,GRP015,Intermediate,Career-focused
+STU058,Emily Evans,Business,Collaborative,Domain Expert,4.9,9.2,8.4,7.1,Diplomatic,Mixed approach,"Morning, Evening, Afternoon",GRP015,Advanced,Research-focused
+STU059,Abigail Phillips,Engineering,Leadership,Project Manager,7.6,7.0,9.2,8.8,Diplomatic,Collaborative,Afternoon,GRP015,Intermediate,Research-focused
+STU060,Nora Wright,Mathematics,Collaborative,Domain Expert,3.0,8.7,8.0,6.4,Supportive,Individual first,"Evening, Afternoon, Morning",GRP015,None,Learning-focused
+STU061,Alexander Morris,Mathematics,Collaborative,Project Manager,4.8,8.4,8.9,7.7,Supportive,Individual first,"Evening, Morning, Afternoon",GRP016,Beginner,Career-focused
+STU062,Taylor Morgan,Statistics,Creative,Data Scientist,5.2,6.5,6.0,5.4,Supportive,Individual first,Afternoon,GRP016,None,Career-focused
+STU063,Grayson Torres,Business,Creative,Data Scientist,9.6,7.6,6.3,8.1,Analytical,Collaborative,Morning,GRP016,Intermediate,Learning-focused
+STU064,Levi Morales,Computer Science,Analytical,ML Engineer,10.0,7.5,6.0,7.4,Direct,Individual first,"Morning, Evening",GRP016,Beginner,Career-focused
+STU065,Mateo Cox,Psychology,Analytical,Data Scientist,9.9,4.9,5.4,7.6,Diplomatic,Mixed approach,Evening,GRP017,Advanced,Research-focused
+STU066,Savannah Gonzalez,Statistics,Leadership,ML Engineer,6.1,7.9,4.7,4.7,Diplomatic,Collaborative,"Afternoon, Evening, Morning",GRP017,None,Learning-focused
+STU067,Riley Edwards,Engineering,Creative,Domain Expert,6.6,5.1,6.8,6.0,Analytical,Collaborative,"Morning, Evening, Afternoon",GRP017,None,Learning-focused
+STU068,Jacob Ramos,Engineering,Collaborative,Domain Expert,5.3,8.6,10.0,7.4,Diplomatic,Collaborative,"Afternoon, Morning, Evening",GRP017,None,Learning-focused
+STU069,Cameron Perez,Mathematics,Creative,Data Scientist,8.7,7.0,6.0,7.3,Supportive,Collaborative,Morning,GRP018,None,Research-focused
+STU070,Lillian Hernandez,Psychology,Collaborative,Domain Expert,6.3,7.9,8.0,7.1,Direct,Collaborative,"Evening, Afternoon",GRP018,Intermediate,Career-focused
+STU071,Grayson Ramos,Computer Science,Analytical,Data Scientist,8.2,7.0,8.6,7.8,Supportive,Mixed approach,Evening,GRP018,None,Learning-focused
+STU072,Mila Lopez,Business,Leadership,ML Engineer,10.0,5.1,4.9,7.2,Supportive,Collaborative,"Morning, Afternoon",GRP018,Intermediate,Career-focused
+STU073,Madison Phillips,Psychology,Analytical,Data Scientist,8.4,5.1,4.9,6.0,Direct,Collaborative,"Afternoon, Evening",GRP019,None,Career-focused
+STU074,Jayden Smith,Engineering,Collaborative,Domain Expert,5.1,9.3,9.7,7.5,Analytical,Collaborative,Afternoon,GRP019,None,Learning-focused
+STU075,Sofia Peterson,Statistics,Collaborative,Domain Expert,7.3,8.8,9.6,9.0,Supportive,Collaborative,"Afternoon, Morning, Evening",GRP019,Advanced,Grade-focused
+STU076,Addison Evans,Computer Science,Analytical,Data Scientist,6.8,5.2,5.9,6.6,Diplomatic,Individual first,"Morning, Afternoon, Evening",GRP019,Advanced,Grade-focused
+STU077,Carter Stewart,Statistics,Creative,Data Scientist,7.0,7.2,8.5,7.6,Analytical,Mixed approach,"Afternoon, Evening, Morning",GRP020,Beginner,Research-focused
+STU078,Mateo Baker,Psychology,Creative,Domain Expert,7.8,6.7,6.5,7.6,Supportive,Individual first,Afternoon,GRP020,Intermediate,Career-focused
+STU079,Grace Nelson,Psychology,Leadership,Project Manager,8.7,9.2,10.0,9.5,Analytical,Collaborative,"Evening, Afternoon",GRP020,Intermediate,Learning-focused
+STU080,Riley Green,Engineering,Creative,Data Scientist,8.0,6.5,6.9,7.3,Analytical,Mixed approach,Afternoon,GRP020,Advanced,Research-focused

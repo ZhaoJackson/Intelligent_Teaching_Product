@@ -1,0 +1,21 @@
+group_id,group_name,project_topic,avg_technical_skills,avg_collaboration_score,avg_engagement_score,personality_diversity,role_diversity,major_diversity,risk_level,progress_percentage,last_meeting,meetings_per_week,code_commits_week,documentation_quality
+GRP001,Team 1,Customer Churn Prediction,7.9,5.8,5.8,2,2,3,High,55.5,2025-08-18 10:08:59.374746,2.8,25,Good
+GRP002,Team 2,Image Classification for Medical Diagnosis,7.1,7.0,6.3,3,3,3,Low,70.9,2025-08-20 10:08:59.375120,3.5,6,Good
+GRP003,Team 3,Natural Language Processing for Sentiment Analysis,7.0,6.2,5.9,2,4,3,High,50.0,2025-08-19 10:08:59.375436,1.9,23,Needs Improvement
+GRP004,Team 4,Recommendation Systems,6.2,6.9,7.0,3,3,4,Low,80.8,2025-08-17 10:08:59.375732,2.9,8,Poor
+GRP005,Team 5,Time Series Forecasting,7.8,7.7,7.2,3,3,4,Low,78.1,2025-08-23 10:08:59.376000,2.8,21,Poor
+GRP006,Team 6,Fraud Detection,5.9,7.4,7.8,3,2,3,Medium,64.9,2025-08-23 10:08:59.376266,2.1,9,Poor
+GRP007,Team 7,Predictive Maintenance,7.0,7.1,7.0,3,3,4,Low,75.4,2025-08-17 10:08:59.376525,2.2,25,Good
+GRP008,Team 8,Speech Recognition,7.3,8.0,8.3,3,3,4,Low,79.9,2025-08-23 10:08:59.376846,2.4,20,Needs Improvement
+GRP009,Team 9,Computer Vision for Autonomous Vehicles,6.9,6.8,6.1,2,3,3,Low,70.9,2025-08-21 10:08:59.377104,2.3,24,Poor
+GRP010,Team 10,Drug Discovery with ML,8.3,7.4,6.9,3,2,3,Low,77.1,2025-08-18 10:08:59.377346,2.2,7,Needs Improvement
+GRP011,Team 11,Financial Risk Assessment,7.0,7.5,7.9,2,3,2,Medium,60.9,2025-08-17 10:08:59.377850,2.6,22,Poor
+GRP012,Team 12,Climate Data Analysis,7.0,7.1,6.8,4,3,3,Low,76.2,2025-08-21 10:08:59.378153,2.2,25,Poor
+GRP013,Team 13,Social Media Analytics,6.5,6.8,7.2,4,3,2,Low,72.6,2025-08-17 10:08:59.378415,2.6,22,Excellent
+GRP014,Team 14,E-commerce Price Optimization,8.1,7.7,7.7,2,3,4,Low,67.8,2025-08-19 10:08:59.378664,1.8,7,Good
+GRP015,Team 15,Healthcare Analytics,5.6,8.6,8.8,2,3,3,Low,71.4,2025-08-18 10:08:59.378903,2.4,14,Good
+GRP016,Team 16,Supply Chain Optimization,7.4,7.5,6.8,3,3,4,Low,76.6,2025-08-18 10:08:59.379147,3.2,7,Poor
+GRP017,Team 17,Energy Consumption Prediction,7.0,6.6,6.7,4,3,3,Low,79.3,2025-08-23 10:08:59.379383,2.4,25,Excellent
+GRP018,Team 18,Stock Market Prediction,8.3,6.8,6.9,4,3,4,Low,74.9,2025-08-20 10:08:59.379622,2.0,10,Needs Improvement
+GRP019,Team 19,Cybersecurity Threat Detection,6.9,7.1,7.5,2,2,4,Medium,64.9,2025-08-23 10:08:59.379864,2.4,6,Needs Improvement
+GRP020,Team 20,Sports Performance Analytics,7.9,7.4,8.0,2,3,3,Low,76.6,2025-08-17 10:08:59.380098,2.1,6,Needs Improvement
