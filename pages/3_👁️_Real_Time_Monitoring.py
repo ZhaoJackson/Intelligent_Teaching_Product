@@ -6,6 +6,12 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from datetime import datetime, timedelta
 
+# Add the project root to the path
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from constants import DATA_PATHS_STR
+
 st.set_page_config(page_title="Real-Time Monitoring", page_icon="👁️", layout="wide")
 
 # Custom CSS
@@ -45,12 +51,12 @@ st.markdown("""
 @st.cache_data
 def load_monitoring_data():
     """Load real-time monitoring data"""
-    return pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/monitoring.csv')
+    return pd.read_csv(DATA_PATHS_STR['monitoring'])
 
 @st.cache_data
 def load_groups_data():
     """Load groups data"""
-    return pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/groups.csv')
+    return pd.read_csv(DATA_PATHS_STR['groups'])
 
 def main():
     st.markdown('<h1 class="main-header">👁️ Real-Time Facilitation and Monitoring</h1>', unsafe_allow_html=True)

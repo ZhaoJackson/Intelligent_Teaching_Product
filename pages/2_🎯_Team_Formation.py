@@ -4,6 +4,12 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+import sys
+import os
+
+# Add the project root to the path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from constants import DATA_PATHS_STR
 
 st.set_page_config(page_title="AI Team Formation", page_icon="🎯", layout="wide")
 
@@ -37,12 +43,12 @@ st.markdown("""
 @st.cache_data
 def load_team_formation_data():
     """Load team formation analysis data"""
-    return pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/team_formation.csv')
+    return pd.read_csv(DATA_PATHS_STR['team_formation'])
 
 @st.cache_data
 def load_students_data():
     """Load student data for filtering"""
-    return pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/students.csv')
+    return pd.read_csv(DATA_PATHS_STR['students'])
 
 def main():
     st.markdown('<h1 class="main-header">🎯 Forming Well-Balanced Teams</h1>', unsafe_allow_html=True)

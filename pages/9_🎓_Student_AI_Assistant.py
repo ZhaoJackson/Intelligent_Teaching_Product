@@ -13,6 +13,12 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils.azure_openai import get_ai_response, format_context_data
 from prompts.student_prompts import SYSTEM_PROMPT, TEAMMATE_MATCHING_PROMPT, PARTICIPATION_GUIDANCE_PROMPT
 
+# Add the project root to the path
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from constants import DATA_PATHS_STR
+
 st.set_page_config(page_title="Student AI Assistant", page_icon="🎓", layout="wide")
 
 # Custom CSS
@@ -59,10 +65,10 @@ st.markdown("""
 @st.cache_data
 def load_student_data():
     """Load student and related data"""
-    students_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/students.csv')
-    participation_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/participation.csv')
-    motivation_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/motivation.csv')
-    gamification_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/gamification.csv')
+    students_df = pd.read_csv(DATA_PATHS_STR['students'])
+    participation_df = pd.read_csv(DATA_PATHS_STR['participation'])
+    motivation_df = pd.read_csv(DATA_PATHS_STR['motivation'])
+    gamification_df = pd.read_csv(DATA_PATHS_STR['gamification'])
     return students_df, participation_df, motivation_df, gamification_df
 
 def generate_student_ai_response(prompt: str, student_profile: dict, context_data: dict) -> str:

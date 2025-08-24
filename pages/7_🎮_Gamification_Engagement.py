@@ -5,6 +5,12 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
+# Add the project root to the path
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from constants import DATA_PATHS_STR
+
 st.set_page_config(page_title="Gamification & Engagement", page_icon="🎮", layout="wide")
 
 # Custom CSS
@@ -59,8 +65,8 @@ st.markdown("""
 @st.cache_data
 def load_gamification_data():
     """Load gamification and achievement data"""
-    gamification_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/gamification.csv')
-    students_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/students.csv')
+    gamification_df = pd.read_csv(DATA_PATHS_STR['gamification'])
+    students_df = pd.read_csv(DATA_PATHS_STR['students'])
     return gamification_df, students_df
 
 def main():

@@ -14,6 +14,12 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils.azure_openai import get_ai_response, format_context_data
 from prompts.ta_prompts import SYSTEM_PROMPT, TASK_PRIORITIZATION_PROMPT, CONFLICT_MEDIATION_PROMPT
 
+# Add the project root to the path
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from constants import DATA_PATHS_STR
+
 st.set_page_config(page_title="TA AI Assistant", page_icon="👨‍🏫", layout="wide")
 
 # Custom CSS
@@ -72,12 +78,12 @@ st.markdown("""
 @st.cache_data
 def load_ta_data():
     """Load data relevant for TA dashboard"""
-    students_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/students.csv')
-    groups_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/groups.csv')
-    monitoring_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/monitoring.csv')
-    tutoring_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/tutoring.csv')
-    conflicts_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/conflicts.csv')
-    participation_df = pd.read_csv('/Users/jacksonzhao/Desktop/Intelligent_Teaching_Product/data/participation.csv')
+    students_df = pd.read_csv(DATA_PATHS_STR['students'])
+    groups_df = pd.read_csv(DATA_PATHS_STR['groups'])
+    monitoring_df = pd.read_csv(DATA_PATHS_STR['monitoring'])
+    tutoring_df = pd.read_csv(DATA_PATHS_STR['tutoring'])
+    conflicts_df = pd.read_csv(DATA_PATHS_STR['conflicts'])
+    participation_df = pd.read_csv(DATA_PATHS_STR['participation'])
     return students_df, groups_df, monitoring_df, tutoring_df, conflicts_df, participation_df
 
 def generate_ta_ai_response(prompt: str, ta_data: dict) -> str:
